@@ -1,0 +1,18 @@
+{
+  "costo total" : {
+    "field" : "id",
+    "value" : "costo"
+  },
+  "chat frame": {
+    "field" : "name",
+    "value" : "Botmaker"
+  },
+  "boton chat online" : {
+    "field" : "id",
+    "value" : "wc-button"
+  },
+  "chat" : {
+    "field" : "id",
+    "value" : "wc-chat-frame"
+  }
+}

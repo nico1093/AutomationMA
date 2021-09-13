@@ -1,0 +1,49 @@
+{
+  "nombre": {
+    "field": "id",
+    "value": "inputName"
+  },
+
+  "telefono": {
+    "field": "id",
+    "value": "inputTel"
+  },
+  "email": {
+    "field": "id",
+    "value": "inputemail"
+  },
+
+  "vivienda": {
+    "field": "id",
+    "value": "tipovivienda"
+  },
+  "superficie": {
+    "field": "id",
+    "value": "superficie"
+  },
+
+  "ubicacion": {
+    "field": "id",
+    "value": "ubicacion"
+  },
+  "boton cotizar" : {
+    "field" : "id",
+    "value" : "cotizador-submit"
+  },
+  "cotizacion" : {
+    "field" : "id",
+    "value" : "cotizador-result"
+  },
+  "" : {
+    "field" : "id",
+    "value" : "cotizador-submit"
+  },
+  "" : {
+    "field" : "id",
+    "value" : "cotizador-submit"
+  },
+  "" : {
+    "field" : "id",
+    "value" : "cotizador-submit"
+  }
+}

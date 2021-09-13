@@ -1,0 +1,6 @@
+{
+  "cotizar": {
+    "field": "xpath",
+    "value": "//a[contains(string(),'Cotizar')]"
+  }
+}
